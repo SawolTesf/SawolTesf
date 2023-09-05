@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sawol Tesfaghebriel</h1>
-<h3 align="center">A passionate Full-Stack Developer from Dallas, TX</h3>
+<h1 align="center">Hi there👋, I'm Sawol Tesfaghebriel</h1>
+<h3 align="center">A passionate Computer Science Student at UT Dallas</h3>
+
 
 - 🌱 I’m currently learning **MongoDB, Express, and Mongoose**
 
